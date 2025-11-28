@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Workcity Africa",
+  "alternateName": "Workcity",
+  "url": "https://www.workcityafrica.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.workcityafrica.com/wp-content/uploads/logo.png",
+    "width": 250,
+    "height": 60
+  },
+  "description": "Workcity Africa provides flexible workspace solutions including coworking spaces, private offices, and meeting rooms across major African cities. We empower professionals and businesses with modern, productive work environments.",
+  "foundingDate": "2020",
+  "founder": {
+    "@type": "Person",
+    "@id": "https://www.workcityafrica.com/#founder",
+    "name": "Emmanuel Asaboro"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "15 Bishop Oluwole Street",
+    "addressLocality": "Victoria Island",
+    "addressRegion": "Lagos",
+    "postalCode": "101241",
+    "addressCountry": "NG"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+234-800-000-0000",
+    "contactType": "Customer Service",
+    "email": "hello@workcityafrica.com",
+    "availableLanguage": ["English"],
+    "areaServed": "NG"
+  },
+  "sameAs": [
+    "https://www.facebook.com/workcityafrica",
+    "https://www.twitter.com/workcityafrica",
+    "https://www.linkedin.com/company/workcityafrica",
+    "https://www.instagram.com/workcityafrica",
+    "https://en.wikipedia.org/wiki/Workcity_Africa"
+  ],
+  "areaServed": {
+    "@type": "Country",
+    "name": "Nigeria"
+  },
+  "slogan": "Flexible Workspaces for Modern Professionals"
+}

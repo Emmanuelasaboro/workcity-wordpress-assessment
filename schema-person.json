@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.workcityafrica.com/#founder",
+  "name": "Emmanuel Asaboro",
+  "givenName": "Emmanuel",
+  "familyName": "Asaboro",
+  "jobTitle": "Founder & Chief Executive Officer",
+  "description": "Emmanuel Asaboro is the founder and CEO of Workcity Africa. With a vision to transform how Africans work, he established Workcity to provide flexible, modern workspace solutions across the continent. Prior to founding Workcity, Emmanuel worked in real estate development and startup ecosystems.",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Workcity Africa",
+    "url": "https://www.workcityafrica.com"
+  },
+  "url": "https://www.workcityafrica.com/about#founder",
+  "image": "https://www.workcityafrica.com/team/emmanuel-asaboro.jpg",
+  "sameAs": [
+    "https://www.linkedin.com/in/emmanuelasaboro",
+    "https://twitter.com/emmanuelasaboro",
+    "https://www.crunchbase.com/person/emmanuel-asaboro"
+  ],
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "University of Lagos"
+  },
+  "nationality": {
+    "@type": "Country",
+    "name": "Nigeria"
+  },
+  "knowsAbout": [
+    "Coworking",
+    "Real Estate",
+    "Startups",
+    "Entrepreneurship",
+    "Workspace Design"
+  ]
+}

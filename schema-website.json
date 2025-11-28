@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Workcity Africa",
+  "alternateName": "Workcity",
+  "url": "https://www.workcity.emmanuelasaboro.xyz",
+  "description": "Book flexible workspaces, private offices, and meeting rooms across Africa. Join a community of professionals and businesses at Workcity.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Workcity Africa",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.workcity.emmanuelasaboro.xyz/wp-content/uploads/logo.png"
+    }
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.workcity.emmanuelasaboro.xyz/search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "inLanguage": "en-NG"
+}
